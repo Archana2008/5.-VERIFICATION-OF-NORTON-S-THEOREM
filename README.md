@@ -3,7 +3,7 @@
 **AIM:**
 
 To verify Norton’s theorem practically and theoretically for the given DC circuit.
-
+ 
 **APPARATUS REQUIRED:**
 
 1.	Regulated Power supply ( RPS)	(0-30 V)	1
