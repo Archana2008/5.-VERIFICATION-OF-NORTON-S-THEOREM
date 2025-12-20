@@ -213,7 +213,9 @@ Theoretical calculation of IL ,IN and RTh(RN) for the given circuit:
 
 
 
-<img width="447" height="333" alt="image" src="https://github.com/user-attachments/assets/85aad27b-29d7-4588-9228-53e588b1f219" />
+
+<img width="402" height="327" alt="image" src="https://github.com/user-attachments/assets/91ecc4bf-634d-44b4-a1a0-451ca3f4b9d4" />
+
 
 
 
